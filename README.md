@@ -1,27 +1,27 @@
 ![Banner](https://source.unsplash.com/1600x500/?technology,data)
 
-# 👋 Hi, I'm [Anandhu N]!
+# 👋 Hi, I'm **Anandhu**!
 
 ## 🚀 Data Science & AI Specialist
 
 I'm a passionate **Data Scientist** with expertise in **AI, Machine Learning, Python, Power BI, and Excel**. I love turning raw data into actionable insights and building AI-driven solutions that solve real-world problems.
 
-### 🔧 Technical Skills:
+### 🛠️ Tools & Technologies:
 - **Programming:** Python, SQL
 - **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch
-- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Data Visualization:** Power BI, Matplotlib, Seaborn, Tableau
 - **Data Processing:** Pandas, NumPy, Excel (Advanced)
-- **Big Data & Cloud:** AWS, Google Cloud, Databricks
-- **Version Control:** Git, GitHub
+- **Big Data & Cloud:** AWS, Google Cloud, Databricks, Apache Spark
+- **Version Control & DevOps:** Git, GitHub, Docker, Kubernetes
+- **Other Tools:** Jupyter Notebook, Google Colab, VS Code
 
-### 📌 Projects:
-🔹 **[Salary Range Prediction](https://github.com/yourusername/salary-range-prediction)** - Predicts salary ranges for job listings using ML.  
+### 📌 Featured Projects:
+🔹 **[Twitter Sentimental Analysis](https://github.com/yourusername/salary-range-prediction)** - Predicts salary ranges for job listings using ML.  
 🔹 **[Customer Churn Analysis](https://github.com/yourusername/customer-churn)** - Machine learning model to predict customer churn.  
-🔹 **[Stock Price Forecasting](https://github.com/yourusername/stock-price-forecasting)** - Time series forecasting using LSTMs.  
+🔹 **[Heart Attack Prediction in Youth](https://github.com/yourusername/stock-price-forecasting)** - Time series forecasting using LSTMs.  
 
-### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23020C1B.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourprofile)  
+### 🌎 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anandhu-n-811214316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))    
 
 💡 Always learning, exploring, and sharing knowledge in **Data Science & AI!** 🚀
+
